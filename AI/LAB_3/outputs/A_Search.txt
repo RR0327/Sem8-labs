@@ -1,0 +1,2 @@
+Path found: Arad -> Sibiu -> Rimnicu Vilcea -> Pitesti -> Bucharest
+Total distance: 418 km
