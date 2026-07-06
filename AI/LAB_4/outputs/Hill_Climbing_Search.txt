@@ -1,0 +1,2 @@
+Path taken by Hill Climbing Search:
+Arad → Sibiu → Fagaras → Bucharest
