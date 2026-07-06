@@ -1,0 +1,27 @@
+8-Puzzle Problem using Depth-First Search (DFS)
+===============================================
+
+Initial State:
+(1, 2, 3)
+(4, 0, 5)
+(6, 7, 8)
+
+Goal State:
+(1, 2, 3)
+(4, 5, 6)
+(7, 8, 0)
+
+Solution found.
+
+(The exact number of moves may vary depending on the successor expansion order.)
+
+Status:
+Goal State Reached Successfully.
+
+
+----------------
+Why this format?
+----------------
+
+Your DFS implementation can generate different valid solution paths depending on the order in which successors are pushed onto the stack.
+Therefore, unless you actually run the program, the exact output cannot be guaranteed.

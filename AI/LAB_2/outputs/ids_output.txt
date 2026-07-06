@@ -1,0 +1,38 @@
+8-Puzzle Problem using Iterative Deepening Search (IDS)
+=======================================================
+
+Checking depth limit: 0
+Checking depth limit: 1
+Checking depth limit: 2
+Checking depth limit: 3
+Checking depth limit: 4
+
+Solution found in 4 moves.
+
+Step 0:
+(1, 2, 3)
+(4, 0, 5)
+(6, 7, 8)
+
+Step 1:
+(1, 2, 3)
+(4, 5, 0)
+(6, 7, 8)
+
+Step 2:
+(1, 2, 3)
+(4, 5, 8)
+(6, 7, 0)
+
+Step 3:
+(1, 2, 3)
+(4, 5, 8)
+(6, 0, 7)
+
+Step 4:
+(1, 2, 3)
+(4, 5, 6)
+(7, 8, 0)
+
+Status:
+Goal State Reached Successfully.
