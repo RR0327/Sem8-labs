@@ -1,0 +1,22 @@
+============================================================
+STEP 2: DATA PREPROCESSING
+============================================================
+
+Operations Performed
+
+✓ Removed the 'id' column.
+✓ Removed one record where gender = 'Other'.
+✓ Filled 201 missing BMI values using the median (28.1).
+✓ Applied Label Encoding to categorical features.
+
+Encoded Columns
+
+• gender
+• ever_married
+• work_type
+• Residence_type
+• smoking_status
+
+Result
+
+The dataset was successfully cleaned and transformed into a machine learning-ready format.

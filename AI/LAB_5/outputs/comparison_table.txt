@@ -1,0 +1,27 @@
+============================================================
+STEP 6: MODEL COMPARISON TABLE
+============================================================
+
+---------------------------------------------------------------------------
+Model                     Accuracy   Precision   Recall    F1-Score
+---------------------------------------------------------------------------
+Logistic Regression        0.7757      0.7528     0.8210     0.7854
+Decision Tree              0.8266      0.7827     0.9043     0.8391
+Random Forest              0.9913      0.9828     1.0000     0.9913
+Support Vector Machine     0.8395      0.7900     0.9249     0.8521
+---------------------------------------------------------------------------
+
+Best Performing Model
+
+Random Forest
+
+Reason
+
+• Highest Accuracy (99.13%)
+• Highest Precision (98.28%)
+• Perfect Recall (100%)
+• Highest F1-Score (99.13%)
+
+Conclusion
+
+Among all four supervised learning algorithms, Random Forest achieved the best overall performance on the Healthcare Stroke Dataset.

@@ -1,0 +1,38 @@
+============================================================
+STEP 1: DATASET OVERVIEW
+============================================================
+
+Dataset Name:
+Healthcare Stroke Dataset
+
+Total Rows    : 5110
+Total Columns : 12
+
+Columns
+------------------------------------------------------------
+1. id
+2. gender
+3. age
+4. hypertension
+5. heart_disease
+6. ever_married
+7. work_type
+8. Residence_type
+9. avg_glucose_level
+10. bmi
+11. smoking_status
+12. stroke
+
+Target Distribution
+------------------------------------------------------------
+No Stroke (0) : 4861
+Stroke (1)    : 249
+
+Missing Values
+------------------------------------------------------------
+BMI : 201
+All Other Columns : 0
+
+Observation
+------------------------------------------------------------
+The dataset is highly imbalanced because the number of stroke cases is much smaller than the number of non-stroke cases.

@@ -1,0 +1,49 @@
+============================================================
+EXECUTION SUMMARY
+============================================================
+
+Dataset Loaded Successfully.
+
+✓ Total Records Processed : 5110
+
+✓ Missing BMI values handled successfully.
+
+✓ Identifier column removed.
+
+✓ Categorical features encoded.
+
+✓ Class imbalance solved using Random Oversampling.
+
+✓ Dataset split into training and testing subsets.
+
+✓ Feature scaling applied using StandardScaler.
+
+✓ Logistic Regression model trained.
+
+✓ Decision Tree model trained.
+
+✓ Random Forest model trained.
+
+✓ Support Vector Machine model trained.
+
+✓ Classification reports generated.
+
+✓ Model comparison table generated.
+
+✓ Three visualization figures created successfully.
+
+Generated Figures
+
+• fig1_comparison.png
+• fig2_confusion.png
+• fig3_f1.png
+
+Overall Best Model
+
+Random Forest
+
+Accuracy : 99.13%
+
+Execution Status
+
+Completed Successfully.

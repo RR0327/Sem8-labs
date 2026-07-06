@@ -1,0 +1,24 @@
+============================================================
+STEP 4: TRAIN-TEST SPLIT
+============================================================
+
+Training Ratio : 80%
+Testing Ratio  : 20%
+
+Training Samples : 7776
+Testing Samples  : 1944
+
+Feature Scaling
+
+Method:
+StandardScaler
+
+Purpose
+
+• Normalize feature values.
+• Improve Logistic Regression performance.
+• Improve Support Vector Machine performance.
+
+Status
+
+Dataset successfully prepared for supervised learning.

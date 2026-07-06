@@ -1,0 +1,31 @@
+============================================================
+STEP 5: MODEL TRAINING RESULTS
+============================================================
+
+Model 1: Logistic Regression
+----------------------------------------
+Accuracy  : 0.7757
+Precision : 0.7528
+Recall    : 0.8210
+F1-Score  : 0.7854
+
+Model 2: Decision Tree
+----------------------------------------
+Accuracy  : 0.8266
+Precision : 0.7827
+Recall    : 0.9043
+F1-Score  : 0.8391
+
+Model 3: Random Forest
+----------------------------------------
+Accuracy  : 0.9913
+Precision : 0.9828
+Recall    : 1.0000
+F1-Score  : 0.9913
+
+Model 4: Support Vector Machine (SVM)
+----------------------------------------
+Accuracy  : 0.8395
+Precision : 0.7900
+Recall    : 0.9249
+F1-Score  : 0.8521

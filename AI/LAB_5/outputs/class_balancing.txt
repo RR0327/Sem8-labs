@@ -1,0 +1,21 @@
+============================================================
+STEP 3: HANDLE CLASS IMBALANCE
+============================================================
+
+Before Oversampling
+
+No Stroke : 4860
+Stroke    : 249
+
+After Oversampling
+
+No Stroke : 4860
+Stroke    : 4860
+
+Technique Used
+
+Random Oversampling (sklearn.utils.resample)
+
+Result
+
+The minority class was successfully balanced with the majority class to improve model learning.
