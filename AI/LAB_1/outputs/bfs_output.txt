@@ -1,0 +1,15 @@
+Enter the number of missionaries: 4
+Enter the number of cannibals: 3
+Solution found in 11 steps:
+Step 0: (4, 3, 'L', 0, 0)
+Step 1: (4, 1, 'R', 0, 2)
+Step 2: (4, 2, 'L', 0, 1)
+Step 3: (2, 2, 'R', 2, 1)
+Step 4: (3, 2, 'L', 1, 1)
+Step 5: (2, 1, 'R', 2, 2)
+Step 6: (2, 2, 'L', 2, 1)
+Step 7: (0, 2, 'R', 4, 1)
+Step 8: (0, 3, 'L', 4, 0)
+Step 9: (0, 1, 'R', 4, 2)
+Step 10: (1, 1, 'L', 3, 2)
+Step 11: (0, 0, 'R', 4, 3)
