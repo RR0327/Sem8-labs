@@ -1,0 +1,18 @@
+Expected Output
+
+Program 1 (Minimax)
+
+['X', ' ', ' ']
+[' ', ' ', ' ']
+[' ', ' ', ' ']
+AI chooses position: 4
+
+Program 2 (Alpha-Beta Pruning)
+
+[' ', ' ', ' ']
+['X', ' ', ' ']
+[' ', ' ', ' ']
+AI chooses position: 4
+
+Explanation:
+- Both algorithms choose the center position (index 4) as the optimal move.
