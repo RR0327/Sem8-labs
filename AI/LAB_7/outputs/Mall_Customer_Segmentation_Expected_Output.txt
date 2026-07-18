@@ -1,0 +1,52 @@
+Program Output (Expected)
+
+STEP 1: Dataset overview (shape, first rows, data types, missing values, statistics)
+
+STEP 2: Preprocessing
+- Gender encoded
+- CustomerID dropped
+- Correlation heatmap displayed
+- Features standardized
+
+STEP 3: Elbow Method
+- Elbow occurs at k = 5
+
+STEP 4: Clustering Results
+K-Means:
+- Calculates Silhouette Score
+- Calculates Davies-Bouldin Index
+- Displays cluster plot
+
+Hierarchical:
+- Calculates Silhouette Score
+- Calculates Davies-Bouldin Index
+- Displays cluster plot
+
+DBSCAN:
+- Reports noise points
+- Reports number of clusters
+- Calculates metrics (if applicable)
+- Displays cluster plot
+
+STEP 5: Comparison Table
+- Algorithm comparison sorted by Silhouette Score
+
+STEP 6: Performance Visualizations
+- Bar chart of Silhouette Scores
+- Bar chart of Davies-Bouldin Index
+
+STEP 7: Cluster Interpretation
+- Average income and spending per cluster
+- Customer segments:
+  * Target Customers
+  * Careful Spenders
+  * Impulsive Buyers
+  * Budget Customers
+  * Average Customers
+
+STEP 8: Conclusion
+1. K-Means achieved the best overall performance.
+2. Hierarchical Clustering performed slightly worse.
+3. DBSCAN detected noise and was less suitable.
+4. Five meaningful customer segments were identified.
+5. K-Means is the recommended algorithm for this dataset.
